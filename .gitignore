@@ -1,0 +1,8 @@
+.vs/
+Debug/
+tables/
+x64/
+DbOperations/Debug/
+DbOperations/x64/
+DbOperations/Release/
+Release/
